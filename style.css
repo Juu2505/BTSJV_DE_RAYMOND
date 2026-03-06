@@ -1,0 +1,4 @@
+/* On cible la classe Bootstrap qui fait le bleu pour la forcer en rouge */
+.bg-primary {
+    background-color: SteelBlue !important;
+}
